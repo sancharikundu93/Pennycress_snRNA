@@ -1,6 +1,6 @@
 # Pennycress snRNA-seq Explorer (beta)
 
-### 👉 [Open the explorer](https://SHINYAPPS_ACCOUNT.shinyapps.io/pennycress_snrna/)
+### 👉 [Open the explorer](https://sancharikundu.shinyapps.io/pennycress_snrna/)
 
 > **Beta.** Preliminary, unpublished data. Clusters, labels and layout may change.
 
