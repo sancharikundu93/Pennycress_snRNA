@@ -1,0 +1,4 @@
+app/data/
+*.Rhistory
+.Rproj.user/
+rsconnect/
